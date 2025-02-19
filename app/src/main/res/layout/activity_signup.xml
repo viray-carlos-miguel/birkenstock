@@ -85,7 +85,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <!-- Sign-Up Button -->
-    <com.google.android.material.button.MaterialButton
+    <Button
         android:id="@+id/signupButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
