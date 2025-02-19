@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color> <!-- A vibrant color for the button -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Optionally, define a secondary color -->
+</resources>
